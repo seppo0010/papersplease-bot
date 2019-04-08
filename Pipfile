@@ -1,0 +1,22 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
+pyautogui = "*"
+jupyter = "*"
+"python3-xlib" = "*"
+matplotlib = "*"
+
+
+[requires]
+
+python_version = "3.5"
