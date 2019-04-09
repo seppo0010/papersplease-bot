@@ -11,6 +11,7 @@ jupyter = "*"
 "python3-xlib" = "*"
 matplotlib = "*"
 opencv-python = "*"
+jupyter-contrib-nbextensions = "*"
 
 [requires]
 python_version = "3.5"
