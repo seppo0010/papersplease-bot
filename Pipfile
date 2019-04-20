@@ -19,6 +19,9 @@ opencv-python = "*"
 jupyter-contrib-nbextensions = "*"
 pytesseract = "*"
 pandas = "*"
+scikit-learn = "*"
+keras = "*"
+tensorflow = "*"
 
 
 [requires]
